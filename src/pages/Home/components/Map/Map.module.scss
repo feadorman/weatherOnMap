@@ -1,0 +1,101 @@
+@import '../../../../styles/variables.scss';
+
+.this__map {
+  max-width: 1000px;
+  height: 480px;
+  background: url("https://meteobox.info/s/countrymaps/TR_00.jpg");
+  box-shadow: $box-shadow;
+  border-radius: $border-radius;
+  position: relative;
+}
+
+.top__block {
+  display: block;
+  z-index: 1;
+}
+
+.this__link {
+  cursor: pointer;
+  text-decoration: none;
+  margin-left: 3px;
+  color: #00008b;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.this__icon {
+  
+}
+
+.this__city1 {
+  left: 150px;
+  top: 50px;
+  position: absolute;
+}
+
+.this__city2 {
+  position: absolute;
+  left: 335px;
+  top: 170px;
+}
+
+.this__city3 {
+  position: absolute;
+  left: 50px;
+  top: 260px;
+}
+
+.this__city4 {
+  position: absolute;
+  left: 150px;
+  top: 130px;
+}
+
+.this__city5 {
+  position: absolute;
+  left: 475px;
+  top: 355px;
+}
+
+.this__city6 {
+  position: absolute;
+  left: 580px;
+  top: 330px;
+}
+
+.this__city7 {
+  position: absolute;
+  left: 330px;
+  top: 290px;
+}
+
+.this__city8 {
+  position: absolute;
+  left: 480px;
+  top: 250px;
+}
+
+.this__city9 {
+  position: absolute;
+  left: 720px;
+  top: 290px;
+}
+
+.this__city10 {
+  position: absolute;
+  left: 770px;
+  top: 160px;
+}
+
+.this__city11 {
+  position: absolute;
+  left: 230px;
+  top: 360px;
+}
+
+.this__city12 {
+  position: absolute;
+  left: 520px;
+  top: 60px;
+}
+
